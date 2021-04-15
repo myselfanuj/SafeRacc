@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241082013187",
+    "project_id": "saferacc-c1238",
+    "storage_bucket": "saferacc-c1238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241082013187:android:11fec7e05bd62e077c2036",
+        "android_client_info": {
+          "package_name": "com.anujsingh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241082013187-m5h08boca684hks90mu7fsnu7jhad3uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anujsingh.myapplication",
+            "certificate_hash": "8c595e8cae34e0314720daf8d498d7f6f5bdf069"
+          }
+        },
+        {
+          "client_id": "241082013187-omig8n3mus7uqobm33rikf8eanqum2cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_CObB7yx7vDHtGL1BQ3eV4c9J3-WxAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241082013187-omig8n3mus7uqobm33rikf8eanqum2cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
