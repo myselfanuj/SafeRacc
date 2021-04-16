@@ -53,7 +53,7 @@ public class Ngodetails extends AppCompatActivity {
         recyclerView.setAdapter(adapter);
 
         //for deleting item from swipe and for sliding also
-        new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(0,
+       /* new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(0,
                 ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT) {
             @Override
             public boolean onMove(RecyclerView recyclerView, RecyclerView.ViewHolder viewHolder, RecyclerView.ViewHolder target) {
@@ -64,7 +64,7 @@ public class Ngodetails extends AppCompatActivity {
             public void onSwiped(RecyclerView.ViewHolder viewHolder, int direction) {
                 adapter.deleteItem(viewHolder.getAdapterPosition());
             }
-        }).attachToRecyclerView(recyclerView);
+        }).attachToRecyclerView(recyclerView);*/
 
         //for OnclicklisternerOnitem
         adapter.setOnItemClickListener(new NoteAdapter.OnItemClickListener() {
